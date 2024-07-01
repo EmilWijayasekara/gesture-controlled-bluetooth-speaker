@@ -33,6 +33,10 @@ This project aims to develop a Bluetooth speaker that can be controlled using ha
     -   `esp_camera`
     -   `ArduinoJson`
 
+![enter image description here](https://raw.githubusercontent.com/EmilWijayasekara/gesture-controlled-bluetooth-speaker/main/assets/model1.png)
+
+![enter image description here](https://raw.githubusercontent.com/EmilWijayasekara/gesture-controlled-bluetooth-speaker/main/assets/classification1.png)
+
 ## Usage
 
 1.  Power on your ESP32-CAM module.
